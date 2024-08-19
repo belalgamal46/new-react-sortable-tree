@@ -1,0 +1,31 @@
+node_modules
+npm-debug.log
+coverage
+
+# Editor and other tmp files
+*.swp
+*.un~
+*.iml
+*.ipr
+*.iws
+*.sublime-*
+.idea/
+*.DS_Store
+.log
+
+# Build directories (Will be preserved by npm)
+.cache
+dist
+lib
+build
+style.css
+style.css.map
+
+# Error files
+yarn-error.log
+
+.vscode
+.eslintcache
+.nvmrc
+
+storybook-static/
